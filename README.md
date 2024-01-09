@@ -1,4 +1,4 @@
-Hey there! 👋 I'm [Adith Suresh], a passionate computer science student on a journey to explore the vast world of technology. This repository is a sneak peek into my coding escapades, ongoing projects, and the skills I'm honing.
+Hey there! 👋 I'm Adith Suresh, a passionate computer science student on a journey to explore the vast world of technology. This repository is a sneak peek into my coding escapades, ongoing projects, and the skills I'm honing.
 
 ## 🚀 About Me
 
@@ -14,8 +14,8 @@ Hey there! 👋 I'm [Adith Suresh], a passionate computer science student on a j
 
 ## 🌐 Connect with Me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/adith-suresh-346ab62a7/)
-- [Twitter Handle](https://twitter.com/adit1593)
+- [LinkedIn](https://www.linkedin.com/in/adith-suresh-346ab62a7/)
+- [Twitter](https://twitter.com/adit1593)
 - [Email](mailto:adithsuresh566@gmail.com)
 
 ## 🤝 Let's Collaborate
