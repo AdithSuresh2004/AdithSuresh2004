@@ -8,8 +8,8 @@ Hey there! 👋 I'm Adith Suresh, a passionate computer science student on a jou
 
 - **Languages:** Python, JavaScript, C
 - **Web Development:** HTML, CSS
-- **Framework:** Django, Node.js
-- **Database:** MongoDB
+- **Framework:** Django, Node.js, Tailwind CSS
+- **Database:** MongoDB, MySQL
 - **Tools and Technologies:** Git
 
 ## 🌐 Connect with Me
