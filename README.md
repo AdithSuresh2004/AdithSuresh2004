@@ -6,11 +6,14 @@ Hey there! 👋 I'm Adith Suresh, a passionate computer science student on a jou
 
 ## 🔧 Skills
 
-- **Languages:** Python, JavaScript, C
-- **Web Development:** HTML, CSS
-- **Framework:** Django, Node.js, Tailwind CSS, NextJS
-- **Database:** MongoDB, MySQL, Postgres
-- **Tools and Technologies:** Git, Prisma
+- **Languages:** Proficient in Python, JavaScript, and C
+- **Web Development:** Skilled in HTML and CSS for creating dynamic and responsive web applications
+- **Frameworks:** Experienced in Django for robust back-end development, Node.js for scalable server-side applications, and Next.js for building efficient monolithic applications
+- **Design Tools:** Proficient in Figma for creating stunning UI/UX designs and prototypes
+- **Design:** Skilled in Tailwind CSS for modern and sleek UI designs
+- **Databases:** Proficient in working with MongoDB, MySQL, and Postgres for efficient data management and retrieval
+- **Version Control:** Experienced in Git for collaborative development and version control
+- **ORM:** Proficient in Prisma for simplifying database access and manipulation within applications
 
 ## 🌐 Connect with Me
 
